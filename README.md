@@ -43,11 +43,11 @@ The results...
 
 llm-thematic-analysis/
 
-│
-
-├── README.md
-
-├── Schema_Prompt_Overview_for_GitHub.ipynb  
+> │
+> 
+> ├── README.md
+> 
+> ├── Schema_Prompt_Overview_for_GitHub.ipynb  
 
 ## Contact
 
