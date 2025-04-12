@@ -31,7 +31,7 @@ The following LLMs were explored during the development and their results were c
 - `GPT-4`
 - `Mistral`
 - `Meta LLaMA`
-- `DeepSeek Coder`
+- ...
 
 Other models can be integrated by modifying the prompt formatting and API wrappers.
 
