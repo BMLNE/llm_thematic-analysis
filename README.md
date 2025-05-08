@@ -1,8 +1,7 @@
 # Hybrid LLM-Based Thematic Analysis Pipeline
 
-This repository presents a modular pipeline for conducting inductive and hybrid thematic analysis using large language models (LLMs). The approach supports human–AI collaboration and is model-agnostic, demonstrated with multiple LLMs such as GPT-4, Mistral, and LLaMA.
-
-The project was developed as part of my Master’s thesis in the "Applied Data Information & Science" program at Lucerne University of Applied Sciences and Arts (HSLU). The aim of the thesis is to explore the capabilities and limitations of LLMs in supporting qualitative research tasks such as Thematic Analysis (TA).
+This repository presents a modular pipeline for conducting inductive and hybrid thematic analysis using a pre-trained LLMs. 
+The project was developed as part of my Master’s thesis in the "Applied Data Information & Science" program at Lucerne University of Applied Sciences and Arts (HSLU). The aim of the thesis is to explore the capabilities and limitations of LLMs in automating qualitative research with Thematic Analysis (TA).
 
 
 ## Abstract (Master Thesis)
